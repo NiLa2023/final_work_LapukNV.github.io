@@ -30,8 +30,7 @@ body {
     background-position: center center;
 }
 
-h3 
-{
+h3 {
     color: #456BD9;
 }
 
@@ -42,7 +41,7 @@ h3
     border: 0;
 }
 
-svg{
+svg {
     height:200px;
     width:100%;
 }
